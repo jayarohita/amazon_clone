@@ -1,4 +1,5 @@
 # amazon_clone
+<hr>
 I've just build the amazon clone for practice.
 <br>
 author: Jaya Rohitha
