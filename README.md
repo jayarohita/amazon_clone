@@ -1,2 +1,2 @@
 # amazon_clone
-author:Jaya Rohitha
+author: Jaya Rohitha
